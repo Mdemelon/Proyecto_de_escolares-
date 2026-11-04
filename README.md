@@ -1,4 +1,4 @@
-# Sistema de servicio social · Centro de Cómputo ITAP
+
 
 ## Puesta en marcha (XAMPP)
 1. La carpeta del proyecto va en `C:\xampp\htdocs\Servicio_de_tec`.
