@@ -14,12 +14,3 @@ Si no recuerdas una contraseña:
 
 Si cambias el nombre de la carpeta, actualiza `BASE_URL` en `SRC/Config/Constantes.php`.
 
-## Ya funciona
-Login con roles (maestro/admin y alumno), marcar entrada y salida con contador, suma de horas y paso a
-"finalizado" a las 500 horas, historial con filtro por mes, perfil del alumno, panel del admin,
-lista de alumnos y alta de alumnos (con su asignación de turno y periodo).
-
-## Pendiente
-Ajustes de horas, baja por sanción, turnos, dependencias, carreras, bitácora, cartas de liberación
-y estadísticas (páginas marcadas como "aún no está construida"). La geolocalización se quitó por ahora
-(las columnas lat/lng de `registro_horas` quedan sin usar).
